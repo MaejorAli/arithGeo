@@ -2,8 +2,7 @@
 
 
 
-function aritGeo(inputArr) { 
-
+function aritGeo(inputArr)  { 
 let diff = inputArr[1] - inputArr[0];
 let ratio =  inputArr[1] /  inputArr[0];
 
@@ -29,3 +28,4 @@ else
 	return 0;
 
 }
+
